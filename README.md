@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Programming Languages and Technologies
 
-<img align="left" alt="img" width="30px" style="padding-right:10px;" a="https://isocpp.org/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
+<a href="https://isocpp.org/"><img align="left" alt="img" width="30px" style="padding-right:10px;" a="https://isocpp.org/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
