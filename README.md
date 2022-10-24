@@ -59,9 +59,13 @@ You can click the Preview link to take a look at your changes.
 <!--VSCode-->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+<<br>
 <!--Figma--> 
 <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+<!--Canva-->
+<a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>
  
  
                                                                      
