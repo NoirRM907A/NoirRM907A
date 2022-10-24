@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ### Programming Languages and Technologies
 
 <!--C++-->
-<a href="https://isocpp.org/" target="_blank">
+<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
 <img align="left" alt="img" width="30px" style="padding-right:10px;" a="https://isocpp.org/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
 <!--Java-->
 <a href="https://www.oracle.com/java/" target="_blank">
