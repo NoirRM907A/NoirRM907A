@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoirRM907A
 - 👀 I’m interested in Machine Learning, Databases, Frameworks and Web Design
-- 🌱 I’m currently learning Python, Web Development, Frameworks and Javascript
+- 🌱 I’m currently learning Python, Web Development, Databases, Design Patterns, Frameworks and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
