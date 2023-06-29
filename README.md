@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoirRM907A
-- 👀 I’m interested in Machine Learning, Databases, Web design, Clouding, Data Analysis and Robotic
+- 👀 I’m interested in Machine Learning, Databases, DevOps, Cloud Computing & Data Analysis
 - 🌱 I’m currently learning Python, Web Development, Databases, Design Patterns and Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
